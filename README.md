@@ -4,7 +4,7 @@ Online Examination System(OES) was developed by using Java Swing and Java AWT co
 Below are the key functionalities outlining the development of such a system:
 
 1. User Interface Design:-
-    - Java Swing and AWT are used to design the graphical user interface (GUI) of the application.
+    - Java Swing and AWT are used to design the graphical user interface (GUI) of the application. 
     - This includes creating screens for user registration, login, exam instructions, exam interface, result display, and administrative functionalities.
     
 2. Exam Management:-
